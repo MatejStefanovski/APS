@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Aud1.iml" filepath="$PROJECT_DIR$/Aud1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Aud2/Aud2.iml" filepath="$PROJECT_DIR$/../Aud2/Aud2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../postfix_calc/postfix_calc.iml" filepath="$PROJECT_DIR$/../postfix_calc/postfix_calc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../vezba_kolokvium/vezba_kolokvium.iml" filepath="$PROJECT_DIR$/../vezba_kolokvium/vezba_kolokvium.iml" />
+    </modules>
+  </component>
+</project>
