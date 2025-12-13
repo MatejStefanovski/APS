@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/2KolVezba/2KolVezba.iml" filepath="$PROJECT_DIR$/2KolVezba/2KolVezba.iml" />
       <module fileurl="file://$PROJECT_DIR$/ApsBook/ApsBook.iml" filepath="$PROJECT_DIR$/ApsBook/ApsBook.iml" />
       <module fileurl="file://$PROJECT_DIR$/Aud2/Aud2.iml" filepath="$PROJECT_DIR$/Aud2/Aud2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Courses_tehniki_za_alg/Courses_tehniki_za_alg.iml" filepath="$PROJECT_DIR$/Courses_tehniki_za_alg/Courses_tehniki_za_alg.iml" />
